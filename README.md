@@ -1,12 +1,12 @@
 # Instructions on how to use and change the Calvary Website
 ## Contents:
-[Setup](#Setup)
-[Making Changes](#Making Changes)
-[Adding a new section](#Adding a new section)
-[New Referral Form](#New Referral Form)
-[Adding photos](#Adding photos)
-[Status of the website](#Status of the website)
-[Markdown Basics](Markdown Basics)
+1. [Setup](#Setup)
+2. [Making Changes](#Making Changes)
+3. [Adding a new section](#Adding a new section)
+4. [New Referral Form](#New Referral Form)
+5. [Adding photos](#Adding photos)
+6. [Status of the website](#Status of the website)
+7. [Markdown Basics](Markdown Basics)
 
 ### Setup
 ![image 1](setup/1.png)
