@@ -31,6 +31,22 @@
 ![image c](setup/c.png)
 6. Commit changes
 
+## New Referral Form
+![image c](setup/1a.png)
+1. open assets
+![image c](setup/1b.png)
+3. click on the current referral form
+![image c](setup/1c.png)
+4. delete the current referral form 
+![image c](setup/1d.png)
+5. commit the deletion
+![image c](setup/1e.png)
+6. add new file, upload
+![image c](setup/1f.png)
+7. upload new form, IT MUST HAVE THE NAME "referral_form_2022.doc"
+![image c](setup/1g.png)
+8. Commit changes
+
 ## Adding photos
 pls no
 
