@@ -48,12 +48,36 @@
 8. Commit changes
 
 ## Adding photos
-pls no
+![image c](setup/2a.png)
+1. Open assets
+![image c](setup/2b.png)
+2. create new file
+![image c](setup/2c.png)
+3. upload the new images
+![image c](setup/2d.png)
+4. commit the upload
+![image c](setup/2e.png)
+5. open assets
+![image c](setup/2f.png)
+6. open the image you just uploaded
+![image c](setup/2g.png)
+7. Right click and copy image address
+![image c](setup/2h.png)
+8. open _includes
+![image c](setup/2i.png)
+9. open the section you want to edit
+![image c](setup/2j.png)
+10. edit the document
+![image c](setup/2k.png)
+11. Insert link to image and then commit changes
 
 ## Status of the website
+![image c](setup/3a.png)
 1. Go to actions
+![image c](setup/3b.png)
+![image c](setup/3c.png)
 2. if the dot is yellow changes are still being made. If its green it has been saved. 
-    Depending on your internet connection and the company hosting the website changes can be saved but still take a long time to show up, most of the time, if its green its done though
+    Depending on your internet connection and the company hosting the website changes can be saved but still take a long time to show up, most of the time, if its green its done though and the website should have the changes made
 
 ## Markdown Basics
 ### Headings
