@@ -19,6 +19,8 @@
 
 ## Adding a new section
 1. open readme.md
+2. add new section
+3. add the content to the new section
 
 ## Adding photos
 pls no
