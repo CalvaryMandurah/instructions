@@ -13,19 +13,7 @@
 
 ## Markdown Basics
 ### Headings
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
-
----------------------------------------
-| ## Heading level 2 | Heading level 2|
----------------------------------------
-| ### Heading level 3 | Heading level 3 |
----------------------------------------
-| #### Heading level 4 | Heading level 4 |
----------------------------------------
-| ##### Heading level 5 | Heading level 5 |
----------------------------------------
-| ###### Heading level 6 | Heading level 6 |
----------------------------------------------
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. Only use 2 to 6 hashtags
 
 ### Paragraphs
 Text can be entered to be inserted in a normal paragraph (This is mostly what i think you'll be doing)
