@@ -18,9 +18,18 @@
 3. Commit your changes after stating the changes you made in the first box
 
 ## Adding a new section
+![image 1a](setup/[.png)
 1. open readme.md
+![image 2a](setup/].png)
 2. add new section
-3. add the content to the new section
+![image c](setup/5.png)
+3. open `_includes` folder
+![image 3a](setup/;.png)
+4. Create new file
+![image 4a](setup/".png)
+5. name file and insert content
+![image c](setup/c.png)
+6. Commit changes
 
 ## Adding photos
 pls no
