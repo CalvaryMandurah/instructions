@@ -8,7 +8,9 @@
 6. Make the changes you want to make and then commit them 
 
 ## Making Changes
-
+1. Start editing the document 
+2. Make the changes you want to
+3. Save your changes after stating the changes you made
 
 
 ## Markdown Basics
