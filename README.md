@@ -1,16 +1,27 @@
 # Instructions on how to use and change the Calvary Website
 ## Setup
+![image 1](setup/1.png)
 1. Sign in to [Github.com](https://github.com/login) and enter the username and password
+![image 2](setup/4.png)
 2. Go to the CalvaryMandurah/Calvary folder 
+![image 2](setup/5.png)
 3. Open the `_includes` Folder 
+![image 3](setup/6.png)
 4. Select the section you want to edit and open the corresponding file
-5. click the pencil to begin editing
-6. Make the changes you want to make and then commit them 
 
 ## Making Changes
-1. Start editing the document 
+![image a](setup/a.png)
+1. Start editing the document by clicking the pencil
+![image b](setup/b.png)
 2. Make the changes you want to
-3. Save your changes after stating the changes you made
+![image c](setup/c.png)
+3. Commit your changes after stating the changes you made in the first box
+
+## Adding a new section
+1. open readme.md
+
+## Adding photos
+pls no
 
 ## Status of the website
 1. Go to actions
