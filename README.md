@@ -80,6 +80,7 @@
     Depending on your internet connection and the company hosting the website changes can be saved but still take a long time to show up, most of the time, if its green its done though and the website should have the changes made
 
 ## Markdown Basics
+[For more information](https://www.markdownguide.org/basic-syntax/)
 ### Headings
 To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. Only use 2 to 6 hashtags
 
@@ -118,4 +119,13 @@ Lists (numbered or dot points), can be indented simply by indenting them.
     1. line 2
     2. line3 
 2. line 4
+
+#### Links
+[text](https://www.markdownguide.org/basic-syntax/)
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+insert your text between square brackets followed by the link itself in normal parenthesis
+
+#### Images
+the exact same as links except have an exclaimation mark at the front
+![penguin](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
 
