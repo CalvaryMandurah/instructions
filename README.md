@@ -26,7 +26,7 @@
 3. open `_includes` folder
 ![image 3a](setup/;.png)
 4. Create new file
-![image 4a](setup/".png)
+![image 4a](setup/'.png)
 5. name file and insert content
 ![image c](setup/c.png)
 6. Commit changes
