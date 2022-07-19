@@ -12,6 +12,10 @@
 2. Make the changes you want to
 3. Save your changes after stating the changes you made
 
+## Status of the website
+1. Go to actions
+2. if the dot is yellow changes are still being made. If its green it has been saved. 
+    Depending on your internet connection and the company hosting the website changes can be saved but still take a long time to show up, most of the time, if its green its done though
 
 ## Markdown Basics
 ### Headings
